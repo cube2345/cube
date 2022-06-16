@@ -1,0 +1,50 @@
+
+h1{
+    text-decoration: center;
+    color:rgb(28, 0, 65);
+}
+.merkury{
+width: 30%;
+}
+.podrob{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 20px;
+    color: blue;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: rgb(90, 192, 218);
+    transition: .3s;
+}
+.podrob:hover{
+    color: darkgreen;
+    background-color: chartreuse;
+}
+.nazad{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 20px;
+    color: blue;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: rgb(90, 192, 218);
+    transition: .3s;
+}
+.nazad:hover{
+    color: darkgreen;
+    background-color: chartreuse;
+}
+body{
+    background: rgb(182, 174, 255)
+}
+.merk{
+    width: 40%;
+}
+.venera{
+    width: 30%;
+}
+p{
+    background: rgb(182, 174, 255);
+}
